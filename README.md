@@ -1,4 +1,4 @@
-### Manage Module-Odoo
+# Manage Module-Odoo
 this is my first time creating a module in odoo, it is based in scrum model, more or less, basically connect tasks, sprints and technologies, the views are simples, I use tree and form type views.
 
 # Odoo
