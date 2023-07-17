@@ -3,7 +3,7 @@ this is my first time creating a module in odoo, it is based in scrum model, mor
 
 # Odoo
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4d%2FOdoo_logo_rgb.svg%2F2560px-Odoo_logo_rgb.svg.png&tbnid=XyRsIKSiB4mRLM&vet=12ahUKEwi4xbKl25SAAxWCq5UCHVA7DNkQMygBegUIARDDAQ..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AOdoo_logo_rgb.svg&docid=U5kbBQFSJ_FvPM&w=2560&h=1920&q=odoo%20logo&ved=2ahUKEwi4xbKl25SAAxWCq5UCHVA7DNkQMygBegUIARDDAQ)
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4d%2FOdoo_logo_rgb.svg%2F2560px-Odoo_logo_rgb.svg.png&tbnid=XyRsIKSiB4mRLM&vet=12ahUKEwi4xbKl25SAAxWCq5UCHVA7DNkQMygBegUIARDDAQ..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AOdoo_logo_rgb.svg&docid=U5kbBQFSJ_FvPM&w=2560&h=1920&q=odoo%20logo&ved=2ahUKEwi4xbKl25SAAxWCq5UCHVA7DNkQMygBegUIARDDAQ](https://github.com/David203009/Manage-Module-Odoo/blob/master/img/descarga.png)
 
 ### Requiermensts
 You have to have installed odoo in your computer, you can try download odoo from their oficial page  [odoo desktop](http:/https://www.odoo.com/es_ES/page/download/ "odoo desktop").
