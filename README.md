@@ -7,10 +7,10 @@ this is my first time creating a module in odoo, it is based in scrum model, mor
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-###Requiermensts
+### Requiermensts
 You have to have installed odoo in your computer, you can try download odoo from their oficial page  [odoo desktop](http:/https://www.odoo.com/es_ES/page/download/ "odoo desktop").
 
-###Reference images
+### Reference images
 
 Image:
 
