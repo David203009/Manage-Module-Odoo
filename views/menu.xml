@@ -1,0 +1,44 @@
+<odoo>
+  <data>
+  
+    <!-- actions window for tasks -->
+
+    <record model="ir.actions.act_window" id="manage.action_task_window">
+      <field name="name">manage task window</field>
+      <field name="res_model">manage.task</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- action window for sprints -->
+    <record model="ir.actions.act_window" id="manage.action_sprint_window">
+      <field name="name">manage sprint window</field>
+      <field name="res_model">manage.sprint</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <record id="manage.action_technology_window" model="ir.actions.act_window">
+      <field name="name">manage technology window</field>
+      <field name="res_model">manage.technology</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- Top menu item -->
+
+    <menuitem name="Manage" id="manage.menu_root"/>
+
+    <!-- menu categories -->
+
+    <menuitem name="Management" id="manage.menu_1" parent="manage.menu_root"/>
+    <!-- <menuitem name="Menu 2" id="manage.menu_2" parent="manage.menu_root"/> -->
+
+    <!-- actions -->
+
+    <menuitem name="Tasks" id="manage.menu_1_task_list" parent="manage.menu_1"
+              action="manage.action_task_window"/>
+    <menuitem name="Sprints" id="manage.menu_1_sprint_list" parent="manage.menu_1"
+              action="manage.action_sprint_window"/>
+    <menuitem name="Technologies" id="manage.menu_1_technology_list" parent="manage.menu_1"
+              action="manage.action_technology_window"/>
+
+  </data>
+</odoo>
