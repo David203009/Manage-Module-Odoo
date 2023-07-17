@@ -12,11 +12,25 @@ You have to have installed odoo in your computer, you can try download odoo from
 
 ### Reference images
 
-Image:
+Tasks view:
 
 ![](https://github.com/David203009/Manage-Module-Odoo/blob/master/img/Screenshot%202023-07-16%20222659.png)
 
+Sprints view:
 
+![](https://github.com/David203009/Manage-Module-Odoo/blob/master/img/Screenshot%202023-07-16%20222708.png)
+
+Technologies view:
+
+![](https://github.com/David203009/Manage-Module-Odoo/blob/master/img/Screenshot%202023-07-16%20222715.png)
+
+Sprint form view:
+
+![](https://github.com/David203009/Manage-Module-Odoo/blob/master/img/Screenshot%202023-07-16%20222758.png)
+
+Task form view:
+
+![](https://github.com/David203009/Manage-Module-Odoo/blob/master/img/Screenshot%202023-07-16%20222817.png)
 
 
 ###End
